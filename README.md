@@ -1,3 +1,9 @@
+# 技术栈
+
+后端：go、gorm、gin、mysql、redis、WebSocket
+
+前端：vue、axios、WebSocket、百度地图API
+
 # 简介  
 
 本系统是一个简易的抢单系统，包括自主抢单以及系统自动分配订单。
